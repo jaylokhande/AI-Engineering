@@ -4,6 +4,7 @@ import pandas as pd
 st.title("Streamlit Text Input")
 
 name=st.text_input("Enter your name:")
+addres=st.text_input("Enter your address:")
 
 
 age=st.slider("Select your age:",0,100,25)
