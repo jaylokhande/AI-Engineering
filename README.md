@@ -6,4 +6,4 @@ steps for Research and Development AI
 step1 : python concepts.
 step2 : Oops in python ( Abstration )
 step3 : llm
-step4 : rnn
+step4 : rnn and deep learning 
