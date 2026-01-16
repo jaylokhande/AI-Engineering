@@ -8,3 +8,5 @@ step2 : Oops in python ( Abstration )
 step3 : llm
 step4 : rnn and deep learning 
 step5 : tokenization 
+step6 : NLP 
+- text processing and stemming types .
